@@ -1,25 +1,25 @@
 {
     "bot": {
-        "token": "bottoken",
+        "token": "MTQwNTE1MDI0NTU5MTE5MTU3NQ.GdlJr-.d_YTYmVgYUy4e_woR2znIhuhpWuJO2Oj1BlJ3I",
         "presence": {
             "status": "online",
             "activities": [{
-                "name": "Minecraft Servers",
+                "name": "LAPATA SMP",
                 "type": "WATCHING"
             }]
         }
     },
     "minecraft": {
         "servers": [{
-            "name": "Hypixel",
-            "ip": "hypixel.net",
-            "port": 25565,
-            "channelId": "1361757965014798526",
+            "name": "LAPATA SMP",
+            "ip": "LapataSMP.mc-join.xyz",
+            "port": 28720,
+            "channelId": "1385137527421272116",
             "updateInterval": 30000,
             "display": {
                 "type": "chart",
                 "banner": {
-                    "url": "https://github.com/BLKOFFICIAL.png",
+                    "url": "https://cdn.discordapp.com/attachments/1369923663343652864/1405153624878743652/standard.gif?ex=689dcaca&is=689c794a&hm=632b80436ac6fa20f11f54a466fe95cf5f49a365d3934aa256316bb6ea47534e&",
                     "enabled": false
                 },
                 "chart": {
@@ -39,13 +39,14 @@
         "title": "🎮 Minecraft Server Status",
         "footer": {
             "text": "Made with ❤️ by Team BLK",
-            "iconURL": "https://github.com/BLKOFFICIAL.png"
+            "iconURL": "https://cdn.discordapp.com/attachments/1369923663343652864/1405162856894169109/IMG_20250813_165629_539.jpg?ex=689dd363&is=689c81e3&hm=69e7419b1b95e270c763cc8699af10735ad163c9213ecaab596a92281a23c4af&"
         }
     },
     "credits": {
-        "author": "Team BLK",
-        "youtube": "https://www.youtube.com/@team_blk_official",
-        "discord": "adithyadev.blk",
-        "github": "https://github.com/BLKOFFICIAL"
+        "author": "Mgfearless",
+        "youtube": "https://youtube.com/@mgfearlessgaming",
+        "discord": "mgfearless_",
+        "github": "dont have"
     }
+
 }
