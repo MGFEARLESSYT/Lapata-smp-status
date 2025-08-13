@@ -14,7 +14,7 @@
             "name": "LAPATA SMP",
             "ip": "LapataSMP.mc-join.xyz",
             "port": 28720,
-            "channelId": "1385137527421272116",
+            "channelId": "1404019435077107732",
             "updateInterval": 30000,
             "display": {
                 "type": "chart",
@@ -50,4 +50,5 @@
     }
 
 }
+
 
